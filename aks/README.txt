@@ -1,0 +1,12 @@
+manifest.json:
+ender_cube.png
+fight_club.png
+netrunner.png
+infinity_hand.png
+fraps.png
+mahinator.png
+magic_balloon.png
+energy_balloon.png
+thor_hammer.png
+russian_axe.png
+desolator.png
