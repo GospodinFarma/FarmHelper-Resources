@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "version": "1.0.0",
+  "images": {
+    "ender_cube": { "file": "ender_cube.png", "sha256": "" },
+    "fight_club": { "file": "fight_club.png", "sha256": "" },
+    "netrunner": { "file": "netrunner.png", "sha256": "" },
+    "infinity_hand": { "file": "infinity_hand.png", "sha256": "" },
+    "fraps": { "file": "fraps.png", "sha256": "" },
+    "mahinator": { "file": "mahinator.png", "sha256": "" },
+    "magic_balloon": { "file": "magic_balloon.png", "sha256": "" },
+    "energy_balloon": { "file": "energy_balloon.png", "sha256": "" },
+    "thor_hammer": { "file": "thor_hammer.png", "sha256": "" },
+    "russian_axe": { "file": "russian_axe.png", "sha256": "" },
+    "desolator": { "file": "desolator.png", "sha256": "" }
+  }
+}
